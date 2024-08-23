@@ -19,7 +19,7 @@ import {
     TINT,
     group,
     frontend,
-    carrent,
+    port,
     jobit,
     tripguide,
     threejs,
@@ -196,16 +196,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "3D Portfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A visually engaging online showcase that effectively presents a 3D artist's creative work, including models, animations, and environments, highlighting skills and expertise in 3D design and production.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "three",
           color: "green-text-gradient",
         },
         {
@@ -213,8 +213,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: port,
+      source_code_link: "https://github.com/AnindyaSundarLayek/3D-portfolio",
     },
     {
       name: "Job IT",
