@@ -32,7 +32,8 @@ import Ramakrishna from "./company/Ramakrishna.png";
 import dhadka from "./company/dhadka.png";
 import TINT from "./company/TINT.png";
 
-import port from "./port.png";
+import carrent from "./carrent.png";
+import document from "./document.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -68,7 +69,7 @@ export {
   Ramakrishna,
   dhadka,
   TINT,
-  port,
+  document,
   jobit,
   tripguide,
 };

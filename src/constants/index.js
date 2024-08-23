@@ -19,7 +19,7 @@ import {
     TINT,
     group,
     frontend,
-    port,
+    document,
     jobit,
     tripguide,
     threejs,
@@ -213,7 +213,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: port,
+      image: document,
       source_code_link: "https://github.com/AnindyaSundarLayek/3D-portfolio",
     },
     {
