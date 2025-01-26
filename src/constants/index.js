@@ -105,11 +105,11 @@ import {
   
   const experiences = [
     {
-      title: "AI/ML Developer Intern",
-      company_name: "Pitangent",
+      title: "Machine Learning Intern",
+      company_name: "PiTANGENT",
       icon: pitangent,
       iconBg: "#383E56",
-      date: "July 2024 - Present",
+      date: "July 2024 - Oct 2024",
       points: [
         "Developing a ChatGPT-type AI by fine-tuning large language models and implementing ML algorithms.",
         "Collaborating with data scientists/analysts and engineers to improve model accuracy and efficiency",
@@ -119,7 +119,7 @@ import {
     },
     {
       title: "Group Leader - Crop Yield Prediction",
-      Description: "Research Paper",
+      company_name: "Research Paper",
       Languages: "Python, NumPy, Pandas (DataFrame), XAI (SHAP, LIME)",
       icon: group,
       iconBg: "#E6DEDD",
@@ -133,7 +133,7 @@ import {
     },
     {
       title: "Frontend Developer",
-      Projects: "Clone Apps, Newspaper App",
+      Projects: "Netflix, CSBS EduApp...",
       icon: frontend,
       iconBg: "#383E56",
       date: "Jan 2023 - Ongoing",
@@ -149,12 +149,25 @@ import {
       Team: "Collaborative project with a peer",
       icon: csbs,
       iconBg: "#E6DEDD",
-      date: "Aug 2024 - Present",
+      date: "Aug 2024 - Dec 2024",
       points: [
         "Creating an intuitive and user-friendly interface using React.js and Bootstrap, ensuring responsive design and seamless user experience across devices.",
         "Incorporated essential educational resources, such as digital notes, practice quizzes, and study schedules tailored specifically for CSBS students.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Worked closely with a team member, splitting tasks effectively and conducting regular code reviews to ensure quality and consistency in the project.",
+      ],
+    },
+    {
+      title: "Multimodal Emotion & Impression Analysis",
+      Team: "Team Leader",
+      icon: TINT,
+      iconBg: "#383E56",
+      date: "Jan 2024 - Present",
+      points: [
+        "The project combines text, audio, and video to deliver detailed emotion insights and cumulative impression scores for diverse applications.",
+        "Models like Whisper, Wav2Vec 2.0, Xception fer2013 and DistilRoBERTa enable accurate, multimodal emotion recognition.",
+        "Modular architecture supports real-time use, multilingual support, and bias mitigation for broader adoption.",
+        "Modular architecture supports real-time use, multilingual support, and bias mitigation for broader adoption.",
       ],
     },
   ];
@@ -167,7 +180,7 @@ import {
       iconBg: "#383E56",
       date: "2009 - 2019",
       points: [
-        "My time at this School shaped my academic foundation and instilled in me a passion for learning. Completing my Madhyamik exam with a 91.1% was a testament to the excellent education and guidance I received.",
+        "My time at this School shaped my academic foundation and instilled in me a passion for learning. Completing my Madhyamik exam with a 91.14% was a testament to the excellent education and guidance I received.",
       ],
     },
     {
@@ -187,7 +200,7 @@ import {
       iconBg: "#383E56",
       date: "Sep 2021 - Jul 2025",
       points: [
-        "Currently pursuing my degree with Maintaining a CGPA of 8.32, demonstrating a strong academic performance. Focusing on the integration of computer science principles with business acumen to develop well-rounded technical and managerial skills.",
+        "Currently pursuing my degree with Maintaining a CGPA of 8.4, demonstrating a strong academic performance. Focusing on the integration of computer science principles with business acumen to develop well-rounded technical and managerial skills.",
       ],
     },
   ];
@@ -217,46 +230,46 @@ import {
       source_code_link: "https://github.com/AnindyaSundarLayek/3D-portfolio",
     },
     {
-      name: "Job IT",
+      name: "LLM Fine-Tuning",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A project focused on fine-tuning large language models (LLMs) for specific tasks. Includes tools, scripts, and tutorials for efficient model customization, optimization, and deployment.",
       tags: [
         {
-          name: "react",
+          name: "Transformers",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Pipeline",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Python",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AnindyaSundarLayek/LLM-Fine-tuning",
     },
     {
-      name: "Trip Guide",
+      name: "CSBS EduApp",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Learnn : An open-source, user-friendly app for CSBS students, offering course curriculum, subject notes, and curated resources. Designed with an intuitive interface for seamless navigation, enhancing access to educational materials efficiently. #EdTech #OpenSource",
       tags: [
         {
-          name: "nextjs",
+          name: "MongoDB",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "React",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Express JS",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AnindyaSundarLayek/CSBS-EduApp",
     },
   ];
   
